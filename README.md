@@ -1,3 +1,2 @@
 # xyz
-hello this is my first repository
-uihhhh
+hello this is my first repository.
